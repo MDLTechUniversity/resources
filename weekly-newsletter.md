@@ -1,0 +1,11 @@
+* http://javascriptweekly.com/
+* http://html5weekly.com/
+* http://rubyweekly.com/
+* http://dbweekly.com/
+* http://www.hackernewsletter.com/
+* http://www.ng-newsletter.com/
+* https://www.dashingd3js.com/
+* https://web-design-weekly.com/
+* http://responsivedesignweekly.com/
+* http://uxdesignweekly.com/
+* http://designweekly.atomic.io/
